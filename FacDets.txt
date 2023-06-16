@@ -1,0 +1,66 @@
+Name: ahsan
+ID: 143
+Designation: prof
+Faculty Details
+----------------
+
+Faculty Details
+----------------
+Name: Burhan Abbasi
+Faculty ID 001
+Designation Prof.
+----------------
+Name: Tahira Anwar
+Faculty ID 002
+Designation Prof.
+----------------
+Name: Haroon Kiani
+Faculty ID 007
+Designation Lecturer
+----------------
+Name: Sheraz Khan
+Faculty ID 017
+Designation Lecturer
+----------------
+Name: Shahmeer Khan
+Faculty ID 041
+Designation Asst. Prof.
+----------------
+Name: Ali Bokhari
+Faculty ID 074
+Designation Asst. Prof.
+----------------
+Name: Raheel Ahmad
+Faculty ID 082
+Designation Prof.
+----------------
+Faculty Details
+----------------
+Name: Burhan Abbasi
+Faculty ID 001
+Designation Prof.
+----------------
+Name: Tahira Anwar
+Faculty ID 002
+Designation Prof.
+----------------
+Name: Haroon Kiani
+Faculty ID 007
+Designation Lecturer
+----------------
+Name: Sheraz Khan
+Faculty ID 017
+Designation Lecturer
+----------------
+Name: Shahmeer Khan
+Faculty ID 041
+Designation Asst. Prof.
+----------------
+Name: Ali Bokhari
+Faculty ID 074
+Designation Asst. Prof.
+----------------
+Name: Raheel Ahmad
+Faculty ID 082
+Designation Prof.
+----------------

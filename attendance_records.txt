@@ -1,0 +1,9 @@
+06-12-2023
+Name			Attendance
+---------------------------
+Saad				Absent
+Sohaib				Absent
+Abdullah				Absent
+Ada				Absent
+Rabiyah				Absent
+
